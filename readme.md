@@ -1,7 +1,7 @@
 # Boilerplate Server - Fastify with Oauth2 support
 
 ### Built With
-Our POC is built with the following major frameworks
+
 * [Fastify](https://www.fastify.io/)
 * [Node](https://nodejs.org/)
 * [EJS](https://ejs.co/)
