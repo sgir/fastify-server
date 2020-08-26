@@ -1,0 +1,23 @@
+{
+  "name": "fastify-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js|pino-pretty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgir/fastify-server"
+  },
+  "dependencies": {
+    "ejs": "2.6.1",
+    "fastify": "^3.2.0",
+    "fastify-oauth2": "^4.1.0",
+    "permit": "^0.2.4",
+    "point-of-view": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "pino-pretty": "^3.6.1"
+  }
+}
