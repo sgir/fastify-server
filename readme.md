@@ -41,7 +41,7 @@ CLIENT_SECRET=********************************
 
 ```
 
-6. **Run Project**
+4. **Run Project**
 
 ```sh
 node server.js
